@@ -1,0 +1,33 @@
+﻿Build started 2016-04-25 오후 6:25:17.
+     1>Project "F:\슈팅 과제\Naruto\Naruto\Naruto.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GameMain.cpp MyMissile.cpp
+         MyMissile.cpp
+         GameMain.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\슈팅 과제\Naruto\Debug\Naruto.exe" /INCREMENTAL /NOLOGO winmm.lib ddraw.lib dsound.lib dinput8.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\슈팅 과제\Naruto\Debug\Naruto.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\슈팅 과제\Naruto\Debug\Naruto.lib" /MACHINE:X86 Debug\Block.obj
+         Debug\Bmp.obj
+         Debug\Boss.obj
+         Debug\BossMissile.obj
+         Debug\DSUTIL.obj
+         Debug\Enemy.obj
+         Debug\EnemyMissile.obj
+         Debug\Exploding.obj
+         Debug\GameMain.obj
+         Debug\GObject.obj
+         Debug\InitDirectX.obj
+         Debug\Main.obj
+         Debug\MyMissile.obj
+         Debug\MyShip.obj
+         Debug\Random.obj
+         Debug\Sprite.obj
+         Debug\stdafx.obj
+         Debug\Timer.obj
+         Naruto.vcxproj -> F:\슈팅 과제\Naruto\Debug\Naruto.exe
+     1>Done Building Project "F:\슈팅 과제\Naruto\Naruto\Naruto.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.45
